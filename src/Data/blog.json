@@ -1,0 +1,50 @@
+{
+    "data":[
+        {
+            "id":1,
+            "blogCategory":"Featured",
+            "blogTitle":"Fitness MantraTo Live Fit Life",
+            "postedOn":"July 21,2016",
+            "author":"Faiz Khan",
+            "blogImage":"Fitness-bolg-post.jpg",
+            "blogText":"The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate"
+        },
+        {
+            "id":2,
+            "blogCategory":"Simple",
+            "blogTitle":"Beautiful & Special Moment",
+            "postedOn":"May 03,2016",
+            "author":"Rizwan Khan",
+            "blogImage":"Beautiful-&-simple.jpg",
+            "blogText":"The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate"
+        },
+        {
+            "id":3,
+            "blogCategory":"Simple",
+            "blogTitle":"Beauti lies within special",
+            "postedOn":"Apr 02,2017",
+            "author":"Hasin Khan",
+            "blogImage":"Fitness-baby-post.jpg",
+            "blogText":"The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate"
+        },
+        {
+            "id":4,
+            "blogCategory":"Simple",
+            "blogTitle":"Beauti lies within special",
+            "postedOn":"jan 02,2018",
+            "author":"Hasin Khan",
+            "blogImage":"memories-from.jpg",
+            "blogText":"The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate"
+        },
+        {
+            "id":5,
+            "blogCategory":"Simple",
+            "blogTitle":"Beauti lies within special",
+            "postedOn":"jun 25,2017",
+            "author":"Hasin Khan",
+            "blogImage":"Fitness-baby-baby.jpg",
+            "blogText":"The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate"
+        }
+    ]
+   
+}

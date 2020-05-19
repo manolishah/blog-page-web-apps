@@ -1,0 +1,28 @@
+.gallaryPost{
+    display: flex;
+    justify-content: space-between;
+}
+.MainImageWrapper {
+    width: 100%;
+    overflow: hidden;
+}
+.MainImageWrapper img{
+    width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+}
+.slidImageWrapper div{
+    width: 100%;
+    overflow: hidden;
+   
+}
+.slidImageWrapper div img{
+    width: 82%;
+    max-height: 400%;
+    object-fit: cover;
+}
+.HomeContainer{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;;
+}
